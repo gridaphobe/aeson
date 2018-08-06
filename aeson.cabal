@@ -81,6 +81,8 @@ library
     Data.Aeson.Internal.Time
     Data.Aeson.Parser.Internal
 
+    Data.Aeson.Encoding.Time.Fixed
+
   -- Deprecated modules
   exposed-modules:
     Data.Aeson.Encode
